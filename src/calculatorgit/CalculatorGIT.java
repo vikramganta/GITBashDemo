@@ -17,6 +17,7 @@ public class CalculatorGIT {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello GIT");
+        System.out.println("calculatorgit.CalculatorGIT.main()");
     }
     
 }
